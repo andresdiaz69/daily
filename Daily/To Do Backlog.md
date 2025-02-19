@@ -1,0 +1,7 @@
+- [x] Obsidian GIT
+- [ ] Obsidian Calendar
+- [ ] Calamaro 29/05
+- [ ] Chichorria
+- [ ] Molotov
+- [ ] Tiketes Scotia
+- [ ] Plataforma comunidad

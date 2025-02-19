@@ -1,0 +1,4 @@
+- [ ] Pantallas PC
+- [ ] Malla window
+- [ ] Sala
+- [ ] 

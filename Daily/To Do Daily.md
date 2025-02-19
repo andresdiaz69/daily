@@ -1,0 +1,3 @@
+- [ ] Obsidian GIT
+- [ ] Obsidian Calendar
+- [ ] Tiketes Scotia
