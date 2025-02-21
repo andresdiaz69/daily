@@ -1,5 +1,5 @@
 - [x] Obsidian GIT
-- [ ] Obsidian Calendar
+- [x] Obsidian Calendar
 - [ ] Calamaro 29/05
 - [ ] Chichorria
 - [ ] Molotov
