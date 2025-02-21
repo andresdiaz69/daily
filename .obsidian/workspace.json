@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/To Do Daily CT.md",
+                "file": "Daily/To buy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Do Daily CT"
+              "title": "To buy"
             }
           },
           {
@@ -195,10 +195,10 @@
   },
   "active": "91390ce62f1d4e01",
   "lastOpenFiles": [
+    "Daily/To Do Daily.md",
+    "Daily/To Do Backlog.md",
     "Daily/To buy.md",
     "Daily/To Do Daily CT.md",
-    "Daily/To Do Backlog.md",
-    "Daily/To Do Daily.md",
     "Welcome.md",
     "Calendar",
     "Daily",

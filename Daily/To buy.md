@@ -1,4 +1,13 @@
+
 - [ ] Pantallas PC
-- [ ] Malla window
 - [ ] Sala
-- [ ] 
+
+- HCenter
+- [ ] Malla window
+
+
+- DC
+- [ ] POO
+- [ ] rejilla sala
+- [ ] rejilla cocina
+- [ ] ziploc

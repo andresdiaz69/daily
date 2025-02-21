@@ -3,5 +3,5 @@
 - [ ] Calamaro 29/05
 - [ ] Chichorria
 - [ ] Molotov
-- [ ] Tiketes Scotia
+- [x] Tiketes Scotia
 - [ ] Plataforma comunidad
