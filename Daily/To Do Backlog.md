@@ -5,22 +5,6 @@
 - [ ] Molotov
 - [x] Tiketes Scotia
 - [ ] Plataforma comunidad
+- [x] lifemiles ethiopian
+- [ ] Puntos JUMBO
 
-
-## Trip
-### House
-- [ ] Trip
-- [ ] Hair
-- [ ] milhoja
-- [ ] 
-### Packed
-- [x] Shamp
-- [x] Soap
-- [x] Sandals
-- [x] Shoes
-- [x] Glasses
-- [ ] Adapter
-- [ ] brusht
-- [ ] lens
-- [ ] boots
-- [ ] 
