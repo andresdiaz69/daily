@@ -1,8 +1,11 @@
-DEV
-- [ ] Actualizar Perú Cambios JC
-- [ ] Análisis Perú - Comités
-- [ ] DEV Perú - Comités
+Peru Comites
+- [ ] Ejecutar manual tareas 2024 - 2025
+- [ ] Ejecutar app tarea 2025 marzo
+- [ ] Probar
 
-CT
-- [ ] Permiso plataforma
-- [ ] 
+Generar PAP
+- [ ] Creacion Tabla Homologa
+- [ ] Insert data tabla Homologa
+- [ ] SP 1
+- [ ] SP 2
+

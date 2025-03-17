@@ -7,4 +7,5 @@
 - [ ] Plataforma comunidad
 - [x] lifemiles ethiopian
 - [ ] Puntos JUMBO
+- [ ] Carmen COLMEDICA
 

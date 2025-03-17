@@ -1,6 +1,7 @@
 1. git checkout Master-Test
 2. git pull origin Master-Test
 3. git checkout -b Informes-Gerenciales-Clases-Final
+4. git merge "dev"
 
 ESC :wq Enter
 
