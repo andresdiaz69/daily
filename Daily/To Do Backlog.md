@@ -8,4 +8,6 @@
 - [x] lifemiles ethiopian
 - [ ] Puntos JUMBO
 - [ ] Carmen COLMEDICA
+- [ ] predial pagar despues 14 marzp - 25 abril
+- [ ] 
 

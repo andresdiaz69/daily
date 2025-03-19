@@ -1,11 +1,20 @@
-Peru Comites
-- [ ] Ejecutar manual tareas 2024 - 2025
-- [ ] Ejecutar app tarea 2025 marzo
-- [ ] Probar
+Daily
+- [x] Rollback transformacion V2
+- [x] actualizar modelo spiga contabilidad
+- [ ] tranformacion normal
+- [ ] transformacion empresas
+- [ ] SP sedes
+- [ ] SP sumas
+- [ ] SP porcentajes
+- [ ] Tablas paralelas
+- [ ] SP generacion
+- [ ] SP consulta
+- [ ] forms
 
-Generar PAP
-- [ ] Creacion Tabla Homologa
-- [ ] Insert data tabla Homologa
-- [ ] SP 1
-- [ ] SP 2
+Pendientes
+- [ ] redondeo
+- [ ] presupuesto
 
+PAP Peru Dolares
+- [ ] Cuando salga a master test eliminar los sp transf v2
+- [ ] 
