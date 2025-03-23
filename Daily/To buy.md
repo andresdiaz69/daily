@@ -11,3 +11,8 @@
 - [ ] rejilla sala
 - [ ] rejilla cocina
 - [ ] ziploc
+
+Mercado
+- [ ] desodorante
+- [ ] Crema humectante
+
