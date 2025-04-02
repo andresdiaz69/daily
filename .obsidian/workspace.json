@@ -23,16 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/To Do Daily CT.md",
+                "file": "Daily/To Do Daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Do Daily CT"
+              "title": "To Do Daily"
+            }
+          },
+          {
+            "id": "1dffd034ec61c0fc",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,16 +201,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "328c4006a3c9d639",
+  "active": "1dffd034ec61c0fc",
   "lastOpenFiles": [
+    "Calendar/2025-05-01 festivo.md",
+    "Calendar/2025-04-17 SS.md",
+    "Daily/To buy.md",
+    "CT Docs.md",
+    "Daily/To Do Daily CT.md",
+    "Daily/To Do Daily.md",
+    "Inglrs.md",
+    "Calendar/2025-04-06 Asamblea.md",
     "Calendar/2025-06-11 cita imevi cornea.md",
     "Calendar/2025-04-05 carolina.md",
     "Calendar/2025-03-21 soccer.md",
     "Daily/To Do Backlog.md",
-    "Daily/To Do Daily.md",
-    "Daily/To Do Daily CT.md",
-    "CT Docs.md",
-    "Daily/To buy.md",
     "Calendar/2025-05-13 CANCELARLIFEMILES.md",
     "Calendar/2025-04-12 recargar cel carmen.md",
     "Calendar/2025-03-25 Colombia.md",
@@ -216,10 +230,6 @@
     "Calendar/2025-12-20 CIUDADPERD.md",
     "Calendar/2025-12-19 CIUDADPERD.md",
     "Calendar/2025-12-18 CIUDADPERD.md",
-    "Calendar/2025-12-17 CIUDADPERD.md",
-    "Calendar/2025-12-16 CIUDADPERD.md",
-    "Calendar/2025-12-15 CIUDADPERD.md",
-    "Calendar/2025-12-14 CIUDADPERD.md",
     "Calendar",
     "Daily",
     "daily"

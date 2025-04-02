@@ -1,15 +1,18 @@
 Daily
 - [x] Rollback transformacion V2
 - [x] actualizar modelo spiga contabilidad
-- [ ] tranformacion normal
-- [ ] transformacion empresas
-- [ ] SP sedes
-- [ ] SP sumas
-- [ ] SP porcentajes
-- [ ] Tablas paralelas
-- [ ] SP generacion
-- [ ] SP consulta
+- [x] tranformacion normal
+- [x] transformacion empresas
+- [x] SP sedes
+- [x] SP sumas
+- [x] SP porcentajes
+- [x] Tablas paralelas
+- [x] SP generacion
+- [x] SP consulta
 - [ ] forms
+- [ ] PRUEBA: cambiar de form
+- [ ] PRUEBA: los que no aplican
+- [ ] 
 
 Pendientes
 - [ ] redondeo
