@@ -6,8 +6,8 @@
 - [x] Tiketes Scotia
 - [ ] Plataforma comunidad
 - [x] lifemiles ethiopian
-- [ ] Puntos JUMBO
+- [x] Puntos JUMBO
 - [ ] Carmen COLMEDICA
 - [ ] predial pagar despues 14 marzp - 25 abril
-- [ ] 
+- [ ] Ver 03/04 extracto 7335 si hicieron refund
 
