@@ -30,9 +30,23 @@
               "icon": "calendar-glyph",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "240c2a9a82856af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/To Do Daily CT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Do Daily CT"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,8 +205,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "747cc41ba35eb861",
+  "active": "240c2a9a82856af4",
   "lastOpenFiles": [
+    "Calendar/2025-04-16 pagar tigo.md",
     "Daily/To Do Daily CT.md",
     "Daily/To Do Daily.md",
     "Basic/Payments.md",
@@ -219,7 +234,6 @@
     "Calendar/2025-03-14 Cesar.md",
     "Calendar/2025-04-26 COPAREY.md",
     "Calendar/2025-05-31 CHAMPIONS.md",
-    "Calendar/2025-12-21 CIUDADPERD.md",
     "Calendar",
     "Daily",
     "daily"
