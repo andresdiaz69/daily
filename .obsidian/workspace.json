@@ -23,16 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic/Payments.md",
+                "file": "Daily/To buy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Payments"
+              "title": "To buy"
+            }
+          },
+          {
+            "id": "f3ece267930dca0d",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,8 +201,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3ef3edaaa9347ab3",
+  "active": "f3ece267930dca0d",
   "lastOpenFiles": [
+    "Calendar/2025-06-29 sandr jammin.md",
+    "Calendar/2025-06-21 ana.md",
+    "Calendar/2025-06-08 UEFA NATIONS.md",
+    "Calendar/2025-09-14 cord.md",
+    "Calendar/2025-09-13 cord.md",
+    "Calendar/2025-08-24 green.md",
+    "Calendar/2025-05-24 VALE.md",
+    "Calendar/2025-05-23 BLUE.md",
+    "Calendar/2025-06-19 recargar carm.md",
+    "Basic/Payments.md",
     "Calendar/2025-05-31 lina.md",
     "Calendar/2025-07-19 ana s queen.md",
     "Calendar/2025-05-10 ANA S MONSERRATE.md",
@@ -200,7 +220,6 @@
     "Calendar/2025-05-16 recargar cel carmen.md",
     "Daily/To Do Daily CT.md",
     "Daily/To Do Daily.md",
-    "Basic/Payments.md",
     "2025-04-23.md",
     "Daily/To Do Backlog.md",
     "CT Docs.md",
@@ -210,15 +229,6 @@
     "Calendar/2025-04-12 Chia Alvarino.md",
     "Calendar/2025-05-01 festivo.md",
     "Calendar/2025-04-17 SS.md",
-    "Daily/To buy.md",
-    "Inglrs.md",
-    "Calendar/2025-04-06 Asamblea.md",
-    "Calendar/2025-06-11 cita imevi cornea.md",
-    "Calendar/2025-04-05 carolina.md",
-    "Calendar/2025-03-21 soccer.md",
-    "Calendar/2025-05-13 CANCELARLIFEMILES.md",
-    "Calendar/2025-04-12 recargar cel carmen.md",
-    "Calendar/2025-03-25 Colombia.md",
     "Basic",
     "Calendar",
     "Daily",
